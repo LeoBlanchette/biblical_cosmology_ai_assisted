@@ -13,7 +13,7 @@ In biblical cosmology, the earth is described as having four corners and ends, w
 **Enoch 18:2**:
 > "I saw the four winds which bear the earth and the firmament of the heaven. And I saw how the winds stretch out the vaults of heaven and have their station between heaven and earth: these are the pillars of the heaven."
 
-This passage highlights the idea of the earth being supported by winds, pillars, and a firmament, indicating a structured and stable world.
+Here we see how the firmament is held up. The wind portals are likely much higher up than the earth by this description, a safe distance from us at ground level.
 
 ### The Great Rivers and Mountains
 
@@ -24,31 +24,30 @@ The **Book of Enoch** mentions four great rivers that play a significant role in
 **Enoch 77:5-6**:
 > "And I saw seven rivers on the earth larger than all the rivers: one of them coming from the west pours its waters into the Great Sea. And these two come from the north to the sea and pour their waters into the Erythraean Sea in the east."
 
-These rivers symbolize the flow of life and sustenance across the earth, highlighting their importance in biblical cosmology.
 
-#### Mountains and High Places
+#### Differences Between East and West
 
-The **Book of Enoch** also describes significant mountains and high places that hold spiritual and geographical importance:
+In our studies, we found notable differences between the eastern and western parts of the earth as described in Enoch. The **east** is often associated with the rising sun and renewal, while the **west** is linked to the setting sun and places of endings.
 
-**Enoch 24:1-2**:
-> "And from thence I went to another place of the earth, and he showed me a mountain range of fire which burnt day and night."
+## The Placement of the Mountains of the Darkness of Winter
 
-Mountains are often seen as sacred places where divine encounters occur, symbolizing a connection between heaven and earth.
+### Intuitive Placement and Significance
 
-### The Pillars of Heaven and Earth
+In our discussion, we decided to place the **Mountains of the Darkness of Winter** between the areas below the east and the west for several key reasons:
 
-The concept of pillars supporting heaven and earth is a recurring theme in biblical cosmology. These pillars symbolize stability and divine support for the cosmos:
+1. **Geographical Buffer**:
+   - The mountains and their cold temperatures seem to act as a natural buffer between the eastern and western regions. This buffer helps delineate the contrasting characteristics of these areas, such as the renewal and life associated with the east and the endings linked to the west. While it is not directionally accurate, perhaps the beginning of this region is what the flat earthers call their "ice wall". Obviously that is purported to be in their "south pole", however.
 
-**Job 9:6**:
-> "Which shaketh the earth out of her place, and the pillars thereof tremble."
+2. **Transition Zone**:
+   - Placing the mountains in this location creates a transitional zone that marks the change from the bright, life-giving properties of the east to the darker, concluding aspects of the west. This transition emphasizes the cyclical nature of the cosmos and the balance between light and darkness.
 
-This scripture emphasizes the foundational aspects of the earth, supported by divine pillars.
+3. **Symbolic Significance**:
+   - The **Mountains of the Darkness of Winter** symbolize a period of dormancy and rest, which is crucial for the cycle of renewal and rebirth. Their position between the east and west highlights their role in the broader cosmic cycle.
 
-### The Role of Sacred Geometry
 
-Sacred geometry plays a crucial role in understanding the geographical descriptions in biblical cosmology. Patterns such as the **Vesica Piscis** and other geometric shapes can be found in the layout of significant geographical features, symbolizing the interconnectedness and harmony of the cosmos.
+### Cardinal Directions and Their Contents
 
-### Conclusion
 
-The geography in biblical cosmology, as described in the **Book of Enoch** and other scriptures, presents a structured and spiritually significant world. The descriptions of rivers, mountains, pillars, and sacred geometry highlight the divine order and balance that govern the earth. By understanding these geographical elements, we gain deeper insights into the spiritual and cosmological framework of biblical teachings.
+The AI did not recal our conversaton this very well, so I will expand on it later. 
+
 

@@ -9,7 +9,25 @@ The paths of the moon, however, were dauntingly difficult to visualize in compar
 Microsoft AI, and was surprised at how much information it was able to extrapolate from the texts. Experimentally I built up a large conversation with $
 discussing things I already knew, and asking it for fresh perspectives on the text. The result: A fair amount of progress. 
 
+## The goal of this project. 
 
+I am a nerd. I like programming. I would like to use technology to recreate the biblical cosmos. Already the microsoft assistant 
+helped me to solve alot of logical issues. The AI gave me some pretty sound advice on why the pattern for the layout of the Luminaries
+portals likely followed a circle, and the winds portals likely were arranged in a square. 
+
+Soon I hope to create a small interface in [Godot](https://godotengine.org/) to experiment with some of the concepts shown in the text, such
+as the sun and moon paths through the portals, mapping, and so forth. But that really depends on if anyone is interested in this project.
+
+# ToC
+ - [1: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [2: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [3: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [4: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [5: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [6: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [7: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+
+## Begin AI Commentary:
 
 Welcome to the **Biblical Cosmology** project! This repository is dedicated to exploring the intricate celestial movements and geographic descriptions as outlined in ancient scriptures, particularly the **Book of Enoch**. Our goal is to bridge the gap between ancient wisdom and contemporary understanding, offering a holistic view of the universe grounded in scriptural truth.
 
