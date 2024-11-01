@@ -20,7 +20,7 @@ Microsoft AI, and was surprised at how much information it was able to extrapola
 
 ## The goal of this project. 
 
-I am a nerd. I like programming. I would like to use technology to recreate the biblical cosmos. Already the microsoft assistant 
+I am a nerd. I like programming. I would like to use technology to recreate some core concepts the biblical cosmos. Already the microsoft assistant 
 helped me to solve alot of logical issues. The AI gave me some pretty sound advice on why the pattern for the layout of the Luminaries
 portals likely followed a circle, and the winds portals likely were arranged in a square. 
 
