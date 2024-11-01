@@ -23,12 +23,6 @@ The movements of the sun and moon, as detailed in the **Book of Enoch**, reveal 
 | 11    | 3                 | 3                 | 3                  | 4                  | 9         | 9           | Waxing, 10 parts            | 29.5                  | Synchronizes with sun’s portals        |
 | 12    | 4                 | 4                 | 4                  | 4                  | 10        | 8           | Fully Illuminated, 14 parts | 30                    | Adjusts for remaining days             |
 
-#### Additional Notes
-
-1. **Mathematical Harmony**: The synchronized paths of the sun and moon reflect a mathematical harmony that underscores the precise and divinely ordered nature of the cosmos.
-2. **Sacred Geometry**: The moon's cyclical paths through the portals may trace patterns reminiscent of sacred geometry, symbolizing interconnectedness and cosmic harmony.
-3. **Symbolic Significance**: The sun's unwavering course and the moon's dynamic light generation symbolize faithfulness, divine guidance, and the reflection of divine truth.
-4. **Scriptural Echoes**: Verses from **Psalms, Ecclesiastes, and Enoch** emphasize the spiritual and symbolic meanings behind these celestial movements, reinforcing their importance in biblical cosmology.
 
 This combined table and the additional notes provide a comprehensive overview of the sun and moon's journeys, offering insights that bridge ancient wisdom with contemporary understanding.
 
