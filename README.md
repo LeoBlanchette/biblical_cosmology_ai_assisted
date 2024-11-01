@@ -2,6 +2,16 @@
 
 This project is dedicated to extrapolating biblical cosmology from ancient texts, the chief one being the [Book of Enoch](https://github.com/scrollmapper/bible_databases_deuterocanonical/blob/master/md/1-enoch/1-enoch.md).
 
+# ToC
+ - [0: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [1: The Sun](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/1_the_sun.md)
+ - [2: Sun Patterns](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/2_sun_patterns.md)
+ - [3: The Moon](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/3_the_moon.md)
+ - [4: Moon Patterns](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/4_moon_patterns.md)
+ - [5: Sun and Moon Table](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/5_sun_and_moon_table.md)
+ - [6: The Winds](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/6_the_winds.md)
+ - [6: Geography](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/7_geography.md)
+
 ## The motivation for this project:
 
 As you can see in the map [I made some time ago](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/enochmap.jpg), it is somewhat easy to create a table of the sun's travels through the portals based on the text. 
@@ -18,15 +28,6 @@ portals likely followed a circle, and the winds portals likely were arranged in 
 Soon I hope to create a small interface in [Godot](https://godotengine.org/) to experiment with some of the concepts shown in the text, such
 as the sun and moon paths through the portals, mapping, and so forth. But that really depends on if anyone is interested in this project.
 
-# ToC
- - [0: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
- - [1: The Sun](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/1_the_sun.md)
- - [2: Sun Patterns](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/2_sun_patterns.md)
- - [3: The Moon](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/3_the_moon.md)
- - [4: Moon Patterns](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/4_moon_patterns.md)
- - [5: Sun and Moon Table](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/5_sun_and_moon_table.md)
- - [6: The Winds](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/6_the_winds.md)
- - [6: Geography](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/7_geography.md)
 
 ## Begin AI Commentary:
 
