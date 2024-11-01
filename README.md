@@ -10,7 +10,7 @@ This project is dedicated to extrapolating biblical cosmology from ancient texts
  - [4: Moon Patterns](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/4_moon_patterns.md)
  - [5: Sun and Moon Table](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/5_sun_and_moon_table.md)
  - [6: The Winds](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/6_the_winds.md)
- - [6: Geography](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/7_geography.md)
+ - [7: Geography](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/7_geography.md)
 
 ## The motivation for this project:
 
