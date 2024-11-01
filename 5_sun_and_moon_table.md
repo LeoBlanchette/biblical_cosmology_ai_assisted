@@ -4,7 +4,7 @@
 
 #### Introduction
 
-The movements of the sun and moon, as detailed in the **Book of Enoch**, reveal an intricately orchestrated and divinely ordered cosmos. These celestial bodies follow precise paths through specific portals, reflecting a profound understanding of the universe's mechanics that bridges ancient wisdom with modern understanding. This combined table highlights the synchronized journeys of the sun and moon, emphasizing their mathematical precision, symbolic meanings, and spiritual significance.
+Here is the table of the sun and moon paths combined.
 
 #### Combined Sun and Moon Path Table
 
@@ -24,8 +24,3 @@ The movements of the sun and moon, as detailed in the **Book of Enoch**, reveal 
 | 12    | 4                 | 4                 | 4                  | 4                  | 10        | 8           | Fully Illuminated, 14 parts | 30                    | Adjusts for remaining days             |
 
 
-This combined table and the additional notes provide a comprehensive overview of the sun and moon's journeys, offering insights that bridge ancient wisdom with contemporary understanding.
-
----
-
-How does this look? Ready for any further adjustments or additions? 🌙✨
