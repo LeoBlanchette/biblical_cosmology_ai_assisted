@@ -16,8 +16,7 @@ This project is dedicated to extrapolating biblical cosmology from ancient texts
 
 As you can see in the map [I made some time ago](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/enochmap.jpg), it is somewhat easy to create a table of the sun's travels through the portals based on the text. 
 The paths of the moon, however, were dauntingly difficult to visualize in comparison as Uriel the angel provided a rather vague formula and set of rules to calculate it. So I spent a great deal of time discussing the problem with the Copilot
-Microsoft AI, and was surprised at how much information it was able to extrapolate from the texts. Experimentally I built up a large conversation with $
-discussing things I already knew, and asking it for fresh perspectives on the text. The result: A fair amount of progress. 
+Microsoft AI, and was surprised at how much information it was able to extrapolate from the texts. Experimentally I built up a large conversation with discussing things I already knew, and asking it for fresh perspectives on the text. The result: A fair amount of progress. 
 
 ## The goal of this project. 
 
