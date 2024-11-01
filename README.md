@@ -19,13 +19,14 @@ Soon I hope to create a small interface in [Godot](https://godotengine.org/) to 
 as the sun and moon paths through the portals, mapping, and so forth. But that really depends on if anyone is interested in this project.
 
 # ToC
- - [1: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
- - [2: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
- - [3: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
- - [4: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
- - [5: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
- - [6: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
- - [7: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [0: Introduction](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/0_introduction.md)
+ - [1: The Sun](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/1_the_sun.md)
+ - [2: Sun Patterns](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/2_sun_patterns.md)
+ - [3: The Moon](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/3_the_moon.md)
+ - [4: Moon Patterns](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/4_moon_patterns.md)
+ - [5: Sun and Moon Table](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/5_sun_and_moon_table.md)
+ - [6: The Winds](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/6_the_winds.md)
+ - [6: Geography](https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted/blob/main/7_geography.md)
 
 ## Begin AI Commentary:
 

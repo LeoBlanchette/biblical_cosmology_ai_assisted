@@ -48,6 +48,6 @@ In our discussion, we decided to place the **Mountains of the Darkness of Winter
 ### Cardinal Directions and Their Contents
 
 
-The AI did not recal our conversaton this very well, so I will expand on it later. 
+The AI did not recal our conversaton on this very well, so I will expand on it later. 
 
 
