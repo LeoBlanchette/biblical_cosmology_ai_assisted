@@ -22,8 +22,3 @@ This project is divided into three main sections:
 
 We welcome contributions and encourage readers to engage with our findings. Please feel free to review, comment, and suggest improvements to help us refine our study. Let's work together to uncover the profound truths hidden in ancient scriptures.
 
-## Getting Started
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/LeoBlanchette/biblical_cosmology_ai_assisted.git
