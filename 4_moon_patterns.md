@@ -33,5 +33,5 @@ The moon’s journey holds profound symbolic significance in biblical cosmology:
 
 - **Faithfulness**: The moon’s consistent cycles symbolize faithfulness and reliability, reflecting divine constancy and the unchanging nature of God’s laws.
 - **Guidance**: The moon serves as a light to the righteous and darkness to sinners in the name of the Lord (1 Enoch 41:8), highlighting its role in divine guidance and judgment.
-- **Reflection and Generation**: The moon’s light, generated through a dynamic process of transferring light to herself from the sun, symbolizes the concept of receiving and reflecting divine truth and wisdom.
+- **Reflection and Generation**: The moon’s light, generated through a dynamic process of transferring light to herself from the sun, symbolizes the concept of receiving and reflecting divine truth and wisdom. This may be likened to how Moses' face shone after speaking with God - an absorption and re-emission.
 
